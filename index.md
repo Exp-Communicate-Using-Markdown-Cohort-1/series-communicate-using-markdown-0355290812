@@ -4,3 +4,8 @@
 ```
 $ git init
 ```
+- [x] Hello
+- [ ] Oke
+- [ ] Okeee
+
+ 
